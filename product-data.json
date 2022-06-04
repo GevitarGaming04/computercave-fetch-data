@@ -10,7 +10,7 @@
 		"maxStorage": "2TB",
 		"display": "13.3 inches",
 		"batteryLife": "18 hours",
-		"weight": "1.29 kg"
+		"weight": "1.29 kg",
 		"sales": 0,
 		"onSale": 1,
 	},
@@ -25,7 +25,7 @@
 		"maxStorage": "2TB",
 		"display": "13.3 inches",
 		"batteryLife": "20 hours",
-		"weight": "1.4 kg"
+		"weight": "1.4 kg",
 		"sales": 0,
 		"onSale": 0,
 	},
@@ -40,7 +40,7 @@
 		"maxStorage": "8TB",
 		"display": "14.2 or 16.2 inches",
 		"batteryLife": "20 hours",
-		"weight": "1.4 kg"
+		"weight": "1.4 kg",
 		"sales": 0,
 		"onSale": 0,
 	}
