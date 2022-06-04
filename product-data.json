@@ -12,7 +12,7 @@
 		"batteryLife": "18 hours",
 		"weight": "1.29 kg",
 		"sales": 0,
-		"onSale": 1,
+		"onSale": 1
 	},
 	{
 		"id": 2,
@@ -27,7 +27,7 @@
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg",
 		"sales": 0,
-		"onSale": 0,
+		"onSale": 0
 	},
 	{
 		"id": 3,
@@ -42,6 +42,6 @@
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg",
 		"sales": 0,
-		"onSale": 0,
+		"onSale": 0
 	}
 ]
