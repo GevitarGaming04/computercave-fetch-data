@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"name": "Macbook Air",
+		"productCategory": "laptop",
+		"brand": "Apple",
+		"price": 1499,
+		"CPUCores": 8,
+		"GPUCores": 8,
+		"maxStorage": "2TB",
+		"display": "13.3 inches",
+		"batteryLife": "18 hours",
+		"weight": "1.29 kg",
+		"sales": 0,
+		"onSale": 1
+	},
+	{
+		"id": 2,
+		"name": "Macbook Pro 13-inch",
+		"productCategory": "laptop",
+		"brand": "Apple",
+		"price": 1899,
+		"CPUCores": 8,
+		"GPUCores": 8,
+		"maxStorage": "2TB",
+		"display": "13.3 inches",
+		"batteryLife": "20 hours",
+		"weight": "1.4 kg",
+		"sales": 0,
+		"onSale": 0
+	},
+	{
+		"id": 3,
+		"name": "Macbook Pro 14-inch/16-inch",
+		"productCategory": "laptop",
+		"brand": "Apple",
+		"price": 1899,
+		"CPUCores": 10,
+		"GPUCores": 32,
+		"maxStorage": "8TB",
+		"display": "14.2 or 16.2 inches",
+		"batteryLife": "20 hours",
+		"weight": "1.4 kg",
+		"sales": 0,
+		"onSale": 0
+	}
+]
