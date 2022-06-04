@@ -11,7 +11,7 @@
 		"display": "13.3 inches",
 		"batteryLife": "18 hours",
 		"weight": "1.29 kg"
-		"sales": 0
+		"sales": 0,
 		"onSale": 1,
 	},
 	{
@@ -26,7 +26,7 @@
 		"display": "13.3 inches",
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg"
-		"sales": 0
+		"sales": 0,
 		"onSale": 0,
 	},
 	{
@@ -41,7 +41,7 @@
 		"display": "14.2 or 16.2 inches",
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg"
-		"sales": 0
+		"sales": 0,
 		"onSale": 0,
 	}
 ]
