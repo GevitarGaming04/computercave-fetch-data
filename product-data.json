@@ -51,7 +51,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes"
-	}
+	},
 	{
 		"id": 4,
 		"name": "ASUS D515DA 15.6 inch",
@@ -69,7 +69,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes"
-	}
+	},
 	{
 		"id": 5,
 		"name": "ASUS X515EA 15.6 inch",
