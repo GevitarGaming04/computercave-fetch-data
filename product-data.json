@@ -12,7 +12,9 @@
 		"batteryLife": "18 hours",
 		"weight": "1.29 kg",
 		"sales": 0,
-		"onSale": 1
+		"onSale": 1,
+		"saleAmount": 0.2,
+		"stock": "yes"
 	},
 	{
 		"id": 2,
@@ -20,6 +22,7 @@
 		"productCategory": "laptop",
 		"brand": "Apple",
 		"price": 1899,
+		"processor": "M1 Chip",
 		"CPUCores": 8,
 		"GPUCores": 8,
 		"maxStorage": "2TB",
@@ -27,7 +30,9 @@
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg",
 		"sales": 0,
-		"onSale": 0
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes"
 	},
 	{
 		"id": 3,
@@ -35,6 +40,7 @@
 		"productCategory": "laptop",
 		"brand": "Apple",
 		"price": 1899,
+		"processor": "M1 Chip",
 		"CPUCores": 10,
 		"GPUCores": 32,
 		"maxStorage": "8TB",
@@ -42,6 +48,45 @@
 		"batteryLife": "20 hours",
 		"weight": "1.4 kg",
 		"sales": 0,
-		"onSale": 0
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes"
 	}
+	{
+		"id": 4,
+		"name": "ASUS D515DA 15.6 inch",
+		"productCategory": "laptop",
+		"brand": "ASUS",
+		"price": 849,
+		"processor": "AMD Ryzen 3 3250OU",
+		"CPUCores": 4,
+		"GPUCores": "",
+		"maxStorage": "1TB + 512GB",
+		"display": "15.6 inches",
+		"batteryLife": "37 hours",
+		"weight": "1.8 kg",
+		"sales": 0,
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes"
+	}
+	{
+		"id": 5,
+		"name": "ASUS X515EA 15.6 inch",
+		"productCategory": "laptop",
+		"brand": "ASUS",
+		"price": 1229,
+		"processor": "Intel 11th Gen Core i7 1165G7 Processor",
+		"CPUCores": 4,
+		"GPUCores": "",
+		"maxStorage": "2TB",
+		"display": "15.6 inches",
+		"batteryLife": "37 hours",
+		"weight": "1.8 kg",
+		"sales": 0,
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes"
+	}
+	
 ]
