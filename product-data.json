@@ -14,7 +14,7 @@
 		"sales": 0,
 		"onSale": 1,
 		"saleAmount": 0.2,
-		"stock": "yes"
+		"stock": "yes",
 		"image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gallery3-20201110?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1632937845000"
 	},
 	{
@@ -33,7 +33,7 @@
 		"sales": 0,
 		"onSale": 0,
 		"saleAmount": 0,
-		"stock": "yes"
+		"stock": "yes",
 		"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-gallery1-202206?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1653439170882"
 	},
 	{
@@ -52,7 +52,7 @@
 		"sales": 0,
 		"onSale": 0,
 		"saleAmount": 0,
-		"stock": "yes"
+		"stock": "yes",
 		"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-gallery2-202110?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1632799174000"
 	},
 	{
@@ -71,8 +71,8 @@
 		"sales": 0,
 		"onSale": 0,
 		"saleAmount": 0,
-		"stock": "yes"
-		"image": ""
+		"stock": "yes",
+		"image": "https://i.imgur.com/6tpGEpd.png"
 	},
 	{
 		"id": 5,
@@ -90,8 +90,8 @@
 		"sales": 0,
 		"onSale": 0,
 		"saleAmount": 0,
-		"stock": "yes"
-		"image": ""
+		"stock": "yes",
+		"image": "ASUS X515EA 15.6 inch"
 	}
 	
 ]
