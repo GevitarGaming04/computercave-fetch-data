@@ -15,7 +15,7 @@
 		"onSale": 1,
 		"saleAmount": 0.2,
 		"stock": "yes",
-		"image": "images/Macbook Air.jpg"
+		"image": "../../images/Macbook Air.jpg"
 	},
 	{
 		"id": 2,
@@ -34,7 +34,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "images/Macbook Pro 13.jpg"
+		"image": "../../images/Macbook Pro 13.jpg"
 	},
 	{
 		"id": 3,
@@ -53,7 +53,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "images/Macbook Pro 14-16.jpg"
+		"image": "../../images/Macbook Pro 14-16.jpg"
 	},
 	{
 		"id": 4,
@@ -72,7 +72,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "images/ASUS Laptop.png"
+		"image": "../../images/ASUS Laptop.png"
 	},
 	{
 		"id": 5,
@@ -91,7 +91,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "images/ASUS Laptop.png"
+		"image": "../../images/ASUS Laptop.png"
 	},
 	{
 		"id": 6,
@@ -110,7 +110,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "images/Galaxy Tab S8.jpg"
+		"image": "../../images/Galaxy Tab S8.jpg"
 	}
 	
 ]
