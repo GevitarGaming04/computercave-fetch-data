@@ -110,7 +110,25 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/Galaxy Tab S8.jpg"
+		"image": "../../images/Galaxy Tab S8.png"
+	},
+	{
+		"id": 7,
+		"name": "Galaxy Tab S8+",
+		"productCategory": "tablet",
+		"brand": "Samsung",
+		"price": 1499,
+		"processor": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+		"CPUCores": 4,
+		"GPUCores": "",
+		"maxStorage": "128/256GB",
+		"display": "12.4 inches",
+		"batteryLife": "7.5 hours",
+		"weight": "0.53 kg",
+		"sales": 0,
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes",
+		"image": "../../images/Galaxy Tab S8+.png"
 	}
-	
 ]
