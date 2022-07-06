@@ -15,7 +15,8 @@
 		"onSale": 1,
 		"saleAmount": 0.2,
 		"stock": "yes",
-		"image": "../../images/Macbook Air.jpg"
+		"image": "../../images/Macbook Air.jpg",
+		"identifier": "mbookair"
 	},
 	{
 		"id": 2,
@@ -34,7 +35,8 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/Macbook Pro 13.jpg"
+		"image": "../../images/Macbook Pro 13.jpg",
+		"identifier": "mbookpro13"
 	},
 	{
 		"id": 3,
@@ -53,7 +55,8 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/Macbook Pro 14-16.jpg"
+		"image": "../../images/Macbook Pro 14-16.jpg",
+		"identifier": "mbookpro14-16"
 	},
 	{
 		"id": 4,
@@ -72,7 +75,8 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/ASUS Laptop.png"
+		"image": "../../images/ASUS Laptop.png",
+		"identifier": "d515da"
 	},
 	{
 		"id": 5,
@@ -91,7 +95,8 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/ASUS Laptop.png"
+		"image": "../../images/ASUS Laptop.png",
+		"identifier": "x515ea"
 	},
 	{
 		"id": 6,
@@ -110,7 +115,8 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/Galaxy Tab S8.png"
+		"image": "../../images/Galaxy Tab S8.png",
+		"identifier": "gtabs8"
 	},
 	{
 		"id": 7,
@@ -129,6 +135,7 @@
 		"onSale": 0,
 		"saleAmount": 0,
 		"stock": "yes",
-		"image": "../../images/Galaxy Tab S8+.png"
+		"image": "../../images/Galaxy Tab S8+.png",
+		"identifier": "gtabs8+"
 	}
 ]
