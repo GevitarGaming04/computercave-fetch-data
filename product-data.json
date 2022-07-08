@@ -12,13 +12,13 @@
 		"image": "../../images/Macbook Air.jpg",
 		"identifier": "mbookair",
 		"infoparagraph": "Featuring the M2 chip, the MacBook Air is extremely thin, at 11.3mm, and features a casing made entirely of aluminium. The M2 processor lets you do just about anything possible, with its 8-core CPU, 40% faster than its M1 predecessor. You can also do this anywhere, with its slim shape. With a 2TB storage drive, you won't need to worry about running out of storage space, and you can also enjoy the benefit of 4K and 8K ProRes support, powered by 10 GPU cores. And if you think power is an issue, this Macbook model comes with 18 hours of battery life. This Macbook is for everyone, from students to streamers.",
-		"CPUCores": 8,
-		"GPUCores": 10,
-		"maxStorage": "2TB",
-		"memory": "24GB",
-		"display": "13.3 inches",
-		"batteryLife": "18 hours",
-		"weight": "1.29 kg"
+		"CPU Cores": 8,
+		"GPU Cores": 10,
+		"Maximum Storage": "2TB",
+		"Memory": "24GB",
+		"Display": "13.3 inches",
+		"Battery Life": "18 hours",
+		"Weight": "1.29 kg"
 	},
 	{
 		"id": 2,
@@ -34,13 +34,13 @@
 		"identifier": "mbookpro13",
 		"infoparagraph": "Just like the Macbook Air, the Macbook Pro features the all-new M2 chip, allowing you to do almost anything, and you can still do it anywhere, thanks to its slim shape as well. With an even longer battery life of 20 hours, 100 gigabytes/second when writing to the hardrive, 1.2 gigabytes/second across devices using WiFi 6, 24 gigabytes of memory and a touch bar for easy navigation, this Macbook is ideal for the dedicated gamer or content creator.",
 		"processor": "M1 Chip",
-		"CPUCores": 8,
-		"GPUCores": 8,
-		"maxStorage": "2TB",
-		"memory": "24GB",
-		"display": "13.3 inches",
-		"batteryLife": "20 hours",
-		"weight": "1.4 kg"
+		"CPU Cores": 8,
+		"GPU Cores": 8,
+		"Maximum Storage": "2TB",
+		"Memory": "24GB",
+		"Display": "13.3 inches",
+		"BatteryLife": "20 hours",
+		"Weight": "1.4 kg"
 	},
 	{
 		"id": 3,
@@ -56,13 +56,13 @@
 		"identifier": "mbookpro14-16",
 		"infoparagraph": "With an even display using Liquid Retina XDR technology, more processing power and even faster performance with a hard drive writing speed of 7.4 gigabytes/second, while still maintaining the same portability as before, what can we say? This Macbook is for the most intense and dedicated gamers, streamers and content creators. Comes in two different screen sizes - 14-inch and 16-inch.",
 		"processor": "M1 Chip",
-		"CPUCores": 10,
-		"GPUCores": 32,
-		"maxStorage": "8TB",
-		"memory": "64GB",
-		"display": "14.2 or 16.2 inches",
-		"batteryLife": "21 hours",
-		"weight": "1.4 kg"
+		"CPU Cores": 10,
+		"GPU Cores": 32,
+		"Maximum Storage": "8TB",
+		"Memory": "64GB",
+		"Display": "14.2 or 16.2 inches",
+		"Battery Life": "21 hours",
+		"Weight": "1.4 kg"
 	},
 	{
 		"id": 4,
@@ -78,13 +78,13 @@
 		"identifier": "d515da",
 		"infoparagraph": "",
 		"processor": "AMD Ryzen 3 3250OU",
-		"CPUCores": 4,
-		"GPUCores": "",
-		"memory": "",
-		"maxStorage": "1TB + 512GB",
-		"display": "15.6 inches",
-		"batteryLife": "37 hours",
-		"weight": "1.8 kg"
+		"CPU Cores": 4,
+		"GPU Cores": "",
+		"Memory": "",
+		"Maximum Storage": "1TB + 512GB",
+		"Display": "15.6 inches",
+		"BatteryLife": "37 hours",
+		"Weight": "1.8 kg"
 	},
 	{
 		"id": 5,
@@ -100,13 +100,13 @@
 		"identifier": "x515ea",
 		"infoparagraph": "",
 		"processor": "Intel 11th Gen Core i7 1165G7 Processor",
-		"CPUCores": 4,
-		"GPUCores": "",
-		"memory": "",
-		"maxStorage": "2TB",
-		"display": "15.6 inches",
-		"batteryLife": "37 hours",
-		"weight": "1.8 kg"
+		"CPU Cores": 4,
+		"GPU Cores": "",
+		"Memory": "",
+		"Maximum Storage": "2TB",
+		"Display": "15.6 inches",
+		"Battery Life": "37 hours",
+		"Weight": "1.8 kg"
 	},
 	{
 		"id": 6,
@@ -122,13 +122,13 @@
 		"identifier": "gtabs8",
 		"infoparagraph": "",
 		"processor": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
-		"CPUCores": 4,
-		"GPUCores": "",
-		"memory": "",
-		"maxStorage": "128/256GB",
-		"display": "11 inches",
-		"batteryLife": "7.5 hours",
-		"weight": "0.50 kg"
+		"CPU Cores": 4,
+		"GPU Cores": "",
+		"Memory": "",
+		"Maximum Storage": "128/256GB",
+		"Display": "11 inches",
+		"Battery Life": "7.5 hours",
+		"Weight": "0.50 kg"
 	},
 	{
 		"id": 7,
@@ -144,12 +144,12 @@
 		"identifier": "gtabs8+",
 		"infoparagraph": "",
 		"processor": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
-		"CPUCores": 4,
-		"GPUCores": "",
-		"memory": "",
-		"maxStorage": "128/256GB",
-		"display": "12.4 inches",
-		"batteryLife": "7.5 hours",
-		"weight": "0.53 kg"
+		"CPU Cores": 4,
+		"GPU Cores": "",
+		"Memory": "",
+		"MaxStorage": "128/256GB",
+		"Display": "12.4 inches",
+		"BatteryLife": "7.5 hours",
+		"Weight": "0.53 kg"
 	}
 ]
