@@ -12,6 +12,7 @@
 		"image": "../../images/Macbook Air.jpg",
 		"identifier": "mbookair",
 		"infoparagraph": "Featuring the M2 chip, the MacBook Air is extremely thin, at 11.3mm, and features a casing made entirely of aluminium. The M2 processor lets you do just about anything possible, with its 8-core CPU, 40% faster than its M1 predecessor. You can also do this anywhere, with its slim shape. With a 2TB storage drive, you won't need to worry about running out of storage space, and you can also enjoy the benefit of 4K and 8K ProRes support, powered by 10 GPU cores. And if you think power is an issue, this Macbook model comes with 18 hours of battery life. This Macbook is for everyone, from students to streamers.",
+		"Operating System": "Mac OS",
 		"Processor": "M1/M2 Chip",
 		"CPU Cores": 8,
 		"GPU Cores": 10,
@@ -19,7 +20,8 @@
 		"Memory": "24GB",
 		"Display": "13.3 inches",
 		"Battery Life": "18 hours",
-		"Weight": "1.29 kg"
+		"Weight": "1.29 kg",
+		"WLAN": "WiFi 802.11 ax/ac/a/n/ax/b/g/n"
 	},
 	{
 		"id": 2,
@@ -34,6 +36,7 @@
 		"image": "../../images/Macbook Pro 13.jpg",
 		"identifier": "mbookpro13",
 		"infoparagraph": "Just like the Macbook Air, the Macbook Pro features the all-new M2 chip, allowing you to do almost anything, and you can still do it anywhere, thanks to its slim shape as well. With an even longer battery life of 20 hours, 100 gigabytes/second when writing to the hardrive, 1.2 gigabytes/second across devices using WiFi 6, 24 gigabytes of memory and a touch bar for easy navigation, this Macbook is ideal for the dedicated gamer or content creator.",
+		"Operating System": "Mac OS",
 		"Processor": "M1 Chip",
 		"CPU Cores": 8,
 		"GPU Cores": 8,
@@ -41,7 +44,8 @@
 		"Memory": "24GB",
 		"Display": "13.3 inches",
 		"BatteryLife": "20 hours",
-		"Weight": "1.4 kg"
+		"Weight": "1.4 kg",
+		"WLAN": "WiFi 802.11 ax/ac/a/n/ax/b/g/n"
 	},
 	{
 		"id": 3,
@@ -56,6 +60,7 @@
 		"image": "../../images/Macbook Pro 14-16.jpg",
 		"identifier": "mbookpro14-16",
 		"infoparagraph": "With an even display using Liquid Retina XDR technology, more processing power and even faster performance with a hard drive writing speed of 7.4 gigabytes/second, while still maintaining the same portability as before, what can we say? This Macbook is for the most intense and dedicated gamers, streamers and content creators. Comes in two different screen sizes - 14-inch and 16-inch.",
+		"Operating System": "Mac OS",
 		"Processor": "M1 Chip",
 		"CPU Cores": 10,
 		"GPU Cores": 32,
@@ -63,7 +68,8 @@
 		"Memory": "64GB",
 		"Display": "14.2 or 16.2 inches",
 		"Battery Life": "21 hours",
-		"Weight": "1.4 kg"
+		"Weight": "1.4 kg",
+		"WLAN": "WiFi 802.11 ax/ac/a/n/ax/b/g/n"
 	},
 	{
 		"id": 4,
@@ -78,14 +84,16 @@
 		"image": "../../images/ASUS Laptop.png",
 		"identifier": "d515da",
 		"infoparagraph": "",
+		"Operating System": "Windows 10/11",
 		"Processor": "AMD Ryzen 3 3250OU",
 		"CPU Cores": 4,
 		"GPU Cores": 24,
-		"Memory": "",
+		"Memory": "20/24 GB",
 		"Maximum Storage": "1TB + 512GB",
 		"Display": "15.6 inches",
 		"BatteryLife": "37 hours",
-		"Weight": "1.8 kg"
+		"Weight": "1.8 kg",
+		"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e"
 	},
 	{
 		"id": 5,
@@ -100,17 +108,43 @@
 		"image": "../../images/ASUS Laptop.png",
 		"identifier": "x515ea",
 		"infoparagraph": "",
+		"Operating System": "Windows 10/11",
 		"Processor": "Intel 11th Gen Core i7 1165G7 Processor",
 		"CPU Cores": 4,
 		"GPU Cores": 24,
-		"Memory": "",
+		"Memory": "20/24 GB",
 		"Maximum Storage": "2TB",
 		"Display": "15.6 inches",
 		"Battery Life": "37 hours",
-		"Weight": "1.8 kg"
+		"Weight": "1.8 kg",
+		"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e"
 	},
 	{
-		"id": 6,
+		"id": 7,
+		"name": "Microsoft Surface Pro 8",
+		"productCategory": "laptop",
+		"brand": "Microsoft",
+		"price": 1698,
+		"sales": 0,
+		"onSale": 0,
+		"saleAmount": 0,
+		"stock": "yes",
+		"image": "../../images/Surface Pro.png",
+		"identifier": "surfacepro",
+		"infoparagraph": "",
+		"Operating System": "Windows 10/11",
+		"Processor": "Quad-core 11th Gen Intel® Core™ i7-1185G7 Processor",
+		"CPU Cores": 4,
+		"GPU Cores": 24,
+		"Memory": "8/16/32 GB",
+		"Maximum Storage": "512GB/1TB + 128/256GB",
+		"Display": "13 inches",
+		"Battery Life": "16 hours",
+		"Weight": "1.8 kg",
+		"WLAN": "WiFi 6: 802.11ax"
+	},
+	{
+		"id": 8,
 		"name": "Galaxy Tab S8",
 		"productCategory": "tablet",
 		"brand": "Samsung",
@@ -122,6 +156,7 @@
 		"image": "../../images/Galaxy Tab S8.png",
 		"identifier": "gtabs8",
 		"infoparagraph": "",
+		"Operating System": "Android 12",
 		"Processor": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
 		"CPU Cores": 8,
 		"GPU Cores": 10,
@@ -132,7 +167,7 @@
 		"Weight": "0.50 kg"
 	},
 	{
-		"id": 7,
+		"id": 9,
 		"name": "Galaxy Tab S8+",
 		"productCategory": "tablet",
 		"brand": "Samsung",
@@ -144,6 +179,7 @@
 		"image": "../../images/Galaxy Tab S8+.png",
 		"identifier": "gtabs8+",
 		"infoparagraph": "",
+		"Operating System": "Android 12",
 		"Processor": "Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
 		"CPU Cores": 8,
 		"GPU Cores": 10,
