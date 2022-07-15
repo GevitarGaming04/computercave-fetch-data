@@ -298,5 +298,30 @@
 		"Battery Life": "10 hours",
 		"Weight": "0.46 kg",
 		"WLAN": "Wi-Fi 6 802.11 ax"
+	},
+	{
+		"id": 12,
+		"name": "iPad Mini",
+		"productCategory": "tablet",
+		"brand": "Apple",
+		"price": 749,
+		"sales": 0,
+		"onSale": 1,
+		"saleAmount": 0.2,
+		"stock": "yes",
+		"image": "../../images/iPad Mini.png",
+		"identifier": "ipadmini",
+		"infoparagraph": "",
+		"Operating System": "iPadOS",
+		"Processor": "A15 Chip",
+		"CPU Cores": 6,
+		"GPU": "A15 Chip",
+		"GPU Cores": "5",
+		"Maximum Storage": "64/256GB",
+		"Memory": "8/16GB",
+		"Display": "8.3 inches",
+		"Battery Life": "10 hours",
+		"Weight": "0.30 kg",
+		"WLAN": "Wi-Fi 6 802.11 ax"
 	}
 ]
