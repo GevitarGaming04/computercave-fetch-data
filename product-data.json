@@ -140,6 +140,7 @@
 		"Operating System": "Windows 10/11",
 		"Processor": "Quad-core 11th Gen Intel® Core™ i7-1185G7 Processor",
 		"CPU Cores": 4,
+		"GPU": "Intel Iris Xe Graphics G7 96EUs",
 		"GPU Cores": 24,
 		"Memory": "8/16/32 GB",
 		"Maximum Storage": "512GB/1TB + 128/256GB",
@@ -195,7 +196,8 @@
 		"Maximum Storage": "128/256GB",
 		"Display": "11 inches",
 		"Battery Life": "7.5 hours",
-		"Weight": "0.50 kg"
+		"Weight": "0.50 kg",
+		"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e"
 	},
 	{
 		"id": 9,
@@ -219,7 +221,8 @@
 		"Maximum Storage": "128/256GB",
 		"Display": "12.4 inches",
 		"Battery Life": "7.5 hours",
-		"Weight": "0.53 kg"
+		"Weight": "0.53 kg",
+		"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e"
 	},
 	{
 		"id": 10,
