@@ -1,1 +1,21 @@
-
+[
+  {
+    "id": 1,
+    "link1": "add-info/Macbook Warranty-Info",
+    "link2": "https://support.apple.com/en-au/guide/mac-help/welcome/mac",
+  },
+  {
+    "id": 2,
+    "link1": "add-info/Macbook Warranty-Info",
+    "link2": "https://support.apple.com/en-au/guide/mac-help/welcome/mac",
+  },
+  {
+    "id": 3,
+    "link1": "add-info/Macbook Warranty-Info",
+    "link2": "https://support.apple.com/en-au/guide/mac-help/welcome/mac",
+  },
+  {
+   "id": 4,
+    "link1": "https://dlcdnets.asus.com/pub/ASUS/nb/X515DA/0409_E17215_X515DA_A.pdf",
+  }
+]
