@@ -366,7 +366,7 @@
 		"Motherboard": "ASUS-PRIME-H510ME-LGA1200-mATX-Desktop-Motherboard",
 		"CPU": "Intel Core i3 10105F Comet Lake Refresh 4 Core 8 Thread",	
 		"RAM": "GeIL 16GB Kit (2x8GB) DDR4 SUPER LUCE RGB SYNC C19 2666MHz",
-		"Graphics Card(s)": "ASUS GeForce GTX 1650 DUAL OC 4GB GDDR5".
+		"Graphics Card(s)": "ASUS GeForce GTX 1650 DUAL OC 4GB GDDR5",
 		"Harddrive(s)": "Crucial P2 250GB NVMe M.2 SSD, Seagate BarraCuda ST1000DM010 3.5' 1TB 64MB 7200RPM HDD",
 		"Case": "Deepcool E-Shield Mid Tower Case",
 		"Operating System": "Windows 11"
@@ -383,7 +383,7 @@
 		"Motherboard": "ASRock H510M-HDV/M.2 Motherboard",
 		"CPU": "Intel Core i3 10100 Comet Lake 4 Core 8 Thread",
 		"RAM": "GeIL 16GB Kit (2x8GB) DDR4 EVO SPEAR C16 2400MHz",
-		"Graphics Card(s)": "ASUS GeForce GTX 1650 DUAL OC 4GB GDDR5".
+		"Graphics Card(s)": "ASUS GeForce GTX 1650 DUAL OC 4GB GDDR5",
 		"Harddrive(s)": "Kingston NV1 500GB NVMe M.2 SSD",
 		"Case": "Corsair 110Q Mid-Tower Quiet ATX Case",
 		"Operating System": "Windows 11"
@@ -400,7 +400,7 @@
 		"Motherboard": "MSI MEG X570S ACE MAX AM4 ATX Desktop Motherboard",
 		"CPU": "AMD Ryzen 9 5950X 16 Core 32 Thread",
 		"RAM": "G.Skill 32GB Kit (2x16GB) DDR4 Trident Z RGB Neo C18 3600Mhz",
-		"Graphics Card(s)": "ASUS GeForce RTX 3080 ROG Strix OC LHR 12GB GDDR6X".
+		"Graphics Card(s)": "ASUS GeForce RTX 3080 ROG Strix OC LHR 12GB GDDR6X",
 		"Harddrive(s)": "Kingston NV1 1TB NVMe M.2 SSD, Seagate BarraCuda ST4000DM004 3.5' 4TB 256MB 5400RPM HDD",
 		"Case": "Thermaltake View 71 Tempered Glass Edition Full Tower",
 		"Operating System": "Windows 11"
