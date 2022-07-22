@@ -312,7 +312,6 @@
 		"Weight": "0.17 kg",
 		"WLAN": "Wi-Fi 5 802.11 ax/v/r/k"
 	},
-	
 	{
 		"id": 17,
 		"name": "Google Pixel 6",
@@ -328,5 +327,31 @@
 		"Battery Life": "8 hours",
 		"Weight": "0.21 kg",
 		"WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e"
+	},
+	{
+		"id": 18,
+		"name": "Panasonic Cordless Phone KX-TG6821ALB",
+		"productCategory": "phone",
+		"brand": "Panasonic",
+		"price": 60,
+		"image": "../../images/Panasonic Cordless Phone KX-TG6821ALB.png",
+		"identifier": "tg6821alb",
+		"infoparagraph": "",
+		"Battery Life": "15 hours",
+		"Corded": "No",
+		"Mounting": "Tabletop"
+	},
+	{
+		"id": 18,
+		"name": "Panasonic Cordless Phone KX-TG6821ALB",
+		"productCategory": "phone",
+		"brand": "Cisco",
+		"price": 186,
+		"image": "../../images/Cisco IP Phone 7821.png",
+		"identifier": "ciscophone",
+		"infoparagraph": "",
+		"Battery Life": "Unlimited",
+		"Corded": "Yes",
+		"Mounting": "Wall"
 	}
 ]
