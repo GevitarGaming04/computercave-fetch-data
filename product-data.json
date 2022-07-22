@@ -343,11 +343,11 @@
 	},
 	{
 		"id": 19,
-		"name": "Panasonic Cordless Phone KX-TG6821ALB",
+		"name": "Cisco IP Phone 7821",
 		"productCategory": "phone",
 		"brand": "Cisco",
 		"price": 186,
-		"image": "../../images/Cisco IP Phone 7821.png",
+		"image": "../../images/Cisco IP Phone 7821.jpg",
 		"identifier": "ciscophone",
 		"infoparagraph": "",
 		"Battery Life": "Unlimited",
