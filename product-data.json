@@ -394,7 +394,7 @@
 		"productCategory": "desktop",
 		"brand": "",
 		"price": 5099,
-		"image": "../../images/PLE Arcadia RTX 3080 12GB Ready To Go Gaming PC",
+		"image": "../../images/PLE Arcadia RTX 3080 12GB Ready To Go Gaming PC.png",
 		"identifier": "arcadiapc",
 		"infoparagraph": "",
 		"Motherboard": "MSI MEG X570S ACE MAX AM4 ATX Desktop Motherboard",
@@ -404,5 +404,17 @@
 		"Harddrive(s)": "Kingston NV1 1TB NVMe M.2 SSD, Seagate BarraCuda ST4000DM004 3.5' 4TB 256MB 5400RPM HDD",
 		"Case": "Thermaltake View 71 Tempered Glass Edition Full Tower",
 		"Operating System": "Windows 11"
+	},
+	{
+		"id": 24,
+		"name": "J.Burrows 15.6 inch Laptop Bag",
+		"productCategory": "case-bag",
+		"brand": "J. Burrows",
+		"price": 19,
+		"image": "../../images/J-Burrows Laptop Bag 15-6.png",
+		"identifier": "jburrows15-6",
+		"infoparagraph": "",
+		"Dimensions": "410mm x 65mm x 300mm",
+		"Material": "Polyester"
 	}
 ]
