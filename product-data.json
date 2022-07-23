@@ -456,5 +456,18 @@
 		"Ethernet Port(s)": 24,
 		"WLAN": "None",
 		"Data Speed": "1Gbps"
+	},
+	{
+		"id": 28,
+		"name": "Belkin CAT6 Network cable (2m)",
+		"productCategory": "network-cable",
+		"brand": "Belkin",
+		"price": 13,
+		"image": "../../images/Belkin RJ45 Cat-5e Patch Cable (1M)",
+		"identifier": "belkincat6-2m",
+		"infoparagraph": "",
+		"Type": "RJ45/CAT-6",
+		"Data Speed": "1Gbps",
+		"Length": "1 metre"
 	}
 ]
