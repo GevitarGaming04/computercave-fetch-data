@@ -459,7 +459,7 @@
 	},
 	{
 		"id": 28,
-		"name": "Belkin CAT6 Network cable (2m)",
+		"name": "Belkin RJ45 CAT6 Network cable (2m)",
 		"productCategory": "network-cable",
 		"brand": "Belkin",
 		"price": 13,
@@ -482,5 +482,35 @@
 		"Type": "RJ45/CAT-5e",
 		"Data Speed": "1Gbps",
 		"Length": "1 metre"
+	},
+	{
+		"id": 29,
+		"name": "Logitech G935 Wireless Headset",
+		"productCategory": "peripheral",
+		"brand": "Logitech",
+		"price": "369",
+		"image": "../../images/Logitech G935.jpg",
+		"identifier": "logitechg935",
+		"infoparagraph": "",
+		"Wireless": "Yes",
+		"Wireless Range": "15-20 metres",
+		"Microphone": "Yes"
+		"Battery Life": "8-12 hours"
+		"Connection Type": "USB"
+	},
+	{
+		"id": 30,
+		"name": "Razer Barracuda Pro",
+		"productCategory": "peripheral",
+		"brand": "Razer",
+		"price": "439",
+		"image": "../../images/Razer Barracuda Pro.png",
+		"identifier": "razerbarracudapro",
+		"infoparagraph": "",
+		"Wireless": "Yes",
+		"Wireless Range": "15-20 metres",
+		"Microphone": "Yes"
+		"Battery Life": "40 hours"
+		"Connection Type": "USB Type C/Bluetooth"
 	}
 ]
