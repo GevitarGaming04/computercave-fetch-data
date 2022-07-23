@@ -494,8 +494,8 @@
 		"infoparagraph": "",
 		"Wireless": "Yes",
 		"Wireless Range": "15-20 metres",
-		"Microphone": "Yes"
-		"Battery Life": "8-12 hours"
+		"Microphone": "Yes",
+		"Battery Life": "8-12 hours",
 		"Connection Type": "USB"
 	},
 	{
@@ -509,8 +509,8 @@
 		"infoparagraph": "",
 		"Wireless": "Yes",
 		"Wireless Range": "15-20 metres",
-		"Microphone": "Yes"
-		"Battery Life": "40 hours"
+		"Microphone": "Yes",
+		"Battery Life": "40 hours",
 		"Connection Type": "USB Type C/Bluetooth"
 	}
 ]
