@@ -407,7 +407,7 @@
 	},
 	{
 		"id": 24,
-		"name": "J.Burrows 15.6 inch Laptop Bag",
+		"name": "J.Burrows 15.6-inch Laptop Bag",
 		"productCategory": "case-bag",
 		"brand": "J. Burrows",
 		"price": 19,
@@ -415,6 +415,18 @@
 		"identifier": "jburrows15-6",
 		"infoparagraph": "",
 		"Dimensions": "410mm x 65mm x 300mm",
-		"Material": "Polyester"
+		"Protection": "Bump-resistant"
+	},
+	{
+		"id": 25,
+		"name": "Everki Flight 16-inch Checkpoint Friendly Briefcase Black",
+		"productCategory": "case-bag",
+		"brand": "Everki",
+		"price": 139,
+		"image": "../../images/Everki Flight 16 Checkpoint Friendly.png",
+		"identifier": "everkiflight16",
+		"infoparagraph": "",
+		"Dimensions": "95mm x 430mm x 300mm",
+		"Protection": "Impact-resistant, Dust-resistant, Bump-resistant, Anti-scratch"
 	}
 ]
