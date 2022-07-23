@@ -463,10 +463,23 @@
 		"productCategory": "network-cable",
 		"brand": "Belkin",
 		"price": 13,
-		"image": "../../images/Belkin RJ45 Cat-5e Patch Cable (1M)",
+		"image": "../../images/Belkin RJ45 Cat-5e Patch Cable (1M).png",
 		"identifier": "belkincat6-2m",
 		"infoparagraph": "",
 		"Type": "RJ45/CAT-6",
+		"Data Speed": "1Gbps",
+		"Length": "2 metre"
+	},
+	{
+		"id": 28,
+		"name": "Belkin RJ45 Cat-5e Patch Cable (1M)",
+		"productCategory": "network-cable",
+		"brand": "Belkin",
+		"price": 10,
+		"image": "../../images/Belkin RJ45 Cat-5e Patch Cable (1M).png",
+		"identifier": "belkincat5e-1m",
+		"infoparagraph": "",
+		"Type": "RJ45/CAT-5e",
 		"Data Speed": "1Gbps",
 		"Length": "1 metre"
 	}
