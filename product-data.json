@@ -428,5 +428,33 @@
 		"infoparagraph": "",
 		"Dimensions": "95mm x 430mm x 300mm",
 		"Protection": "Impact-resistant, Dust-resistant, Bump-resistant, Anti-scratch"
+	},
+	{
+		"id": 26,
+		"name": "Netgear Nighthawk AX 5-Stream Wi-Fi 6 Router",
+		"productCategory": "network-cable",
+		"brand": "Netgear",
+		"price": 279,
+		"image": "../../images/Netgear Nighthawk AX 5-Stream Wi-Fi 6 Router.png",
+		"identifier": "nighthawkax5router",
+		"infoparagraph": "",
+		"Capabilities": "Router and Switch",
+		"Ethernet Port(s)": 4,
+		"WLAN": "Wi-Fi 6 (802.11 ax)",
+		"Data Speed": "2.4Gbps"
+	},
+	{
+		"id": 27,
+		"name": "TP-LINK 24 Port Gigabit Ethernet Desktop Rackmount Switch",
+		"productCategory": "network-cable",
+		"brand": "TP-Link",
+		"price": 169,
+		"image": "../../images/TP-LINK 24 Port Gigabit Ethernet Desktop Rackmount Switch.png",
+		"identifier": "tplink24portswitch",
+		"infoparagraph": "",
+		"Capabilities": "Switch only",
+		"Ethernet Port(s)": 24,
+		"WLAN": "None",
+		"Data Speed": "1Gbps"
 	}
 ]
