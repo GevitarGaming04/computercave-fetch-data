@@ -389,7 +389,7 @@
 		"Operating System": "Windows 11"
 	},
 	{
-		"id": 23,
+		"id": 22,
 		"name": "PLE Arcadia RTX 3080 12GB Ready To Go Gaming PC",
 		"productCategory": "desktop",
 		"brand": "PLE",
@@ -406,7 +406,7 @@
 		"Operating System": "Windows 11"
 	},
 	{
-		"id": 24,
+		"id": 23,
 		"name": "J.Burrows 15.6-inch Laptop Bag",
 		"productCategory": "case-bag",
 		"brand": "J. Burrows",
@@ -418,7 +418,7 @@
 		"Protection": "Bump-resistant"
 	},
 	{
-		"id": 25,
+		"id": 24,
 		"name": "Everki Flight 16-inch Checkpoint Friendly Briefcase Black",
 		"productCategory": "case-bag",
 		"brand": "Everki",
@@ -430,7 +430,7 @@
 		"Protection": "Impact-resistant, Dust-resistant, Bump-resistant, Anti-scratch"
 	},
 	{
-		"id": 26,
+		"id": 25,
 		"name": "Netgear Nighthawk AX 5-Stream Wi-Fi 6 Router",
 		"productCategory": "network-cable",
 		"brand": "Netgear",
@@ -444,7 +444,7 @@
 		"Data Speed": "2.4Gbps"
 	},
 	{
-		"id": 27,
+		"id": 26,
 		"name": "TP-LINK 24 Port Gigabit Ethernet Desktop Rackmount Switch",
 		"productCategory": "network-cable",
 		"brand": "TP-Link",
@@ -458,7 +458,7 @@
 		"Data Speed": "1Gbps"
 	},
 	{
-		"id": 28,
+		"id": 27,
 		"name": "Belkin RJ45 CAT6 Network cable (2m)",
 		"productCategory": "network-cable",
 		"brand": "Belkin",
